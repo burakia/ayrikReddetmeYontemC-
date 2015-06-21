@@ -1,4 +1,4 @@
-ï»¿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -64,7 +64,7 @@ namespace ayrikreddetmeyontem
         }
         public void rastgeleSayiUret(int altsinir, int ustsinir,ulong iterasyon)
 	{
-        double taralÄ±AlanrastgeleAdet=0;
+        double taralýAlanrastgeleAdet=0;
        
 		Random r=new Random();
         for (ulong i = 0; i < iterasyon; i++)
@@ -74,22 +74,24 @@ namespace ayrikreddetmeyontem
 
             if (f(rastgelesayiX) >= rastgelesayiY)
             {
-                taralÄ±AlanrastgeleAdet++;
+                taralýAlanrastgeleAdet++;
                 
             }
             
         }
-            //toplam monte carlo alanÄ±nÄ± verir
-            double toplamAlan = (taralÄ±AlanrastgeleAdet / iterasyon) * dikdortgenAlan(altsinir, ustsinir);
+Console.WriteLine("TaralýAlanrastgeleAdet: " + taralýAlanrastgeleAdet +"\n\n"+ "toplamRastgeleSayi: " + iterasyon+"dir");
+            Console.WriteLine("Monte carlo reddetme yöntemi sonucu Alan:" + toplamAlan+" dir");
+            //toplam monte carlo alanýný verir
+            double toplamAlan = (taralýAlanrastgeleAdet / iterasyon) * dikdortgenAlan(altsinir, ustsinir);
             
 	}
         static void Main(string[] args)
         {
             Program prg=new Program();
-            Console.WriteLine("alt sÄ±nÄ±r giriniz");
+            Console.WriteLine("alt sýnýr giriniz");
             int altSinir =Convert.ToInt16(Console.ReadLine());
 
-            Console.WriteLine("Ã¼st sÄ±nÄ±r giriniz");
+            Console.WriteLine("üst sýnýr giriniz");
             int ustSinir = Convert.ToInt16(Console.ReadLine());
 
             Console.WriteLine("iterasyon sayisi giriniz");
