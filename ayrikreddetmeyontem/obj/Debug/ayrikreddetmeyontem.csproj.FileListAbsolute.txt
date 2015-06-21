@@ -1,0 +1,12 @@
+c:\users\burakyılmaz\documents\visual studio 2013\Projects\ayrikreddetmeyontem\ayrikreddetmeyontem\bin\Debug\ayrikreddetmeyontem.exe.config
+c:\users\burakyılmaz\documents\visual studio 2013\Projects\ayrikreddetmeyontem\ayrikreddetmeyontem\bin\Debug\ayrikreddetmeyontem.exe
+c:\users\burakyılmaz\documents\visual studio 2013\Projects\ayrikreddetmeyontem\ayrikreddetmeyontem\bin\Debug\ayrikreddetmeyontem.pdb
+c:\users\burakyılmaz\documents\visual studio 2013\Projects\ayrikreddetmeyontem\ayrikreddetmeyontem\obj\Debug\ayrikreddetmeyontem.csprojResolveAssemblyReference.cache
+c:\users\burakyılmaz\documents\visual studio 2013\Projects\ayrikreddetmeyontem\ayrikreddetmeyontem\obj\Debug\ayrikreddetmeyontem.exe
+c:\users\burakyılmaz\documents\visual studio 2013\Projects\ayrikreddetmeyontem\ayrikreddetmeyontem\obj\Debug\ayrikreddetmeyontem.pdb
+C:\Users\burakyılmaz\Desktop\ayrikReddetmeYontemC#\ayrikreddetmeyontem\bin\Debug\ayrikreddetmeyontem.exe.config
+C:\Users\burakyılmaz\Desktop\ayrikReddetmeYontemC#\ayrikreddetmeyontem\obj\Debug\ayrikreddetmeyontem.exe
+C:\Users\burakyılmaz\Desktop\ayrikReddetmeYontemC#\ayrikreddetmeyontem\obj\Debug\ayrikreddetmeyontem.pdb
+C:\Users\burakyılmaz\Desktop\ayrikReddetmeYontemC#\ayrikreddetmeyontem\bin\Debug\ayrikreddetmeyontem.exe
+C:\Users\burakyılmaz\Desktop\ayrikReddetmeYontemC#\ayrikreddetmeyontem\bin\Debug\ayrikreddetmeyontem.pdb
+C:\Users\burakyılmaz\Desktop\ayrikReddetmeYontemC#\ayrikreddetmeyontem\obj\Debug\ayrikreddetmeyontem.csprojResolveAssemblyReference.cache
